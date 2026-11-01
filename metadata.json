@@ -1,0 +1,6 @@
+{
+  "name": "AIVOA.AI — Intelligent Quality Investigation",
+  "description": "AI-Powered Root Cause Analysis (RCA) Platform for Pharmaceutical API Manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

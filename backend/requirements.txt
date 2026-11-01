@@ -1,0 +1,11 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.6.0
+sqlalchemy>=2.0.25
+psycopg2-binary>=2.9.9
+langgraph>=0.0.26
+langchain-groq>=0.0.9
+groq>=0.4.2
+pymupdf>=1.23.21
+python-multipart>=0.0.9
+python-dotenv>=1.0.1
